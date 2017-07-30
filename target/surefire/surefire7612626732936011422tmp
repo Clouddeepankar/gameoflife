@@ -1,0 +1,25 @@
+#surefire
+#Sun Jul 30 19:00:15 IST 2017
+testClassesDirectory=/home/deepankar/gameoflife/target/test-classes
+classPathUrl.4=/home/deepankar/.m2/repository/org/hamcrest/hamcrest-all/1.1/hamcrest-all-1.1.jar
+forkMode=once
+classPathUrl.3=/home/deepankar/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar
+classPathUrl.2=/home/deepankar/.m2/repository/junit/junit/4.11/junit-4.11.jar
+useManifestOnlyJar=true
+classPathUrl.1=/home/deepankar/gameoflife/target/classes
+reportsDirectory=/home/deepankar/gameoflife/target/surefire-reports
+classPathUrl.0=/home/deepankar/gameoflife/target/test-classes
+providerConfiguration=org.apache.maven.surefire.junit4.JUnit4Provider
+testSuiteDefinitionTestSourceDirectory=/home/deepankar/gameoflife/src/test/java
+surefireClassPathUrl.1=/home/deepankar/.m2/repository/org/apache/maven/surefire/surefire-api/2.11/surefire-api-2.11.jar
+surefireClassPathUrl.0=/home/deepankar/.m2/repository/org/apache/maven/surefire/surefire-junit4/2.11/surefire-junit4-2.11.jar
+runOrder=filesystem
+useSystemClassLoader=true
+excludes0=**/*$*
+isTrimStackTrace=true
+enableAssertions=true
+failIfNoTests=false
+runStatisticsFile=/home/deepankar/gameoflife/.surefire-9E230C38B4AF5AEFFC858E8FE14D2FFE2A22AC11
+includes0=%regex[.*integration.*]
+childDelegation=false
+classPathUrl.5=/home/deepankar/.m2/repository/org/mockito/mockito-all/1.9.0/mockito-all-1.9.0.jar
